@@ -1,6 +1,5 @@
 # M4-lab encoding a phrase
-# J.Casteel
-# 11/18/2020
+# Josh C.
 
 print('\n')
 #### The usual pleasantries ####
